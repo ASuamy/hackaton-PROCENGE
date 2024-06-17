@@ -16,7 +16,8 @@ A Procenge é uma empresa de TI com 50 anos de mercado e faz parte do Porto Digi
 
 A inteligência artificial aplicada como assistente virtual, aprendendo com o comportamento e os perfis de cada usuário. A I.A. vai interagir reconhecendo as atividades rotineiras de cada perfil, fazendo sugestões, pré-analises e envio programado de relatórios.
 
-
+<img src='PROBLEMA 1.jpg'>
+<img src='PROBLEMA 2.jpg'>
 
 O design do projeto foi criado pelo [figma](https://www.figma.com/design/Tr6NBCaMO3S48dlx6uPwDg/ERP-PREDITIVO--PROCENGE?node-id=0-1&t=B4rFse3dfO28YVca-0) e passou pelas etapas de: Definição do problema, pesquisa de usuários, pesquisa dos concorrentes, definição dos objetivos, brainstorm e ideação, criação do protótipo de alta fidelidade.
 
