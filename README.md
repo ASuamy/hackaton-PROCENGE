@@ -23,4 +23,4 @@ O design do projeto foi criado pelo [figma](https://www.figma.com/design/Tr6NBCa
 
 
 ## Apresentação
-[<img src="FINALIZAÇÃO 4.jpg" width="50%">]([https://www.youtube.com/watch?v=Hc79sDi3f0U](https://www.youtube.com/watch?v=OmEXgNjYqnY) "ERP Preditivo")
+[ERP PREDITIVO](https://www.youtube.com/watch?v=OmEXgNjYqnY)
